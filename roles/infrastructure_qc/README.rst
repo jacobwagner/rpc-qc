@@ -27,5 +27,5 @@ Adding tasks to this role
 
 If at any point you would like to see a task added to this role, please submit an issue to
 rpc-upgrades explaining what you would like to add, and why. Issues can be submitted
-`here <https://github.com/rcbops/rpc-upgrades/issues>`_.
+`here <https://github.com/jacobwagner/rpc-qc/issues>`_.
 
